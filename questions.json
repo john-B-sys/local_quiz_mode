@@ -1,0 +1,1466 @@
+[
+  {
+    "id": 1,
+    "question": "A single premium policy means a policy",
+    "options": {
+      "a": "requiring only a single premium each year",
+      "b": "under which only one premium payment is required",
+      "c": "only available to single individuals",
+      "d": "on which no more than one premium can be paid in advance"
+    },
+    "answer": "b",
+    "explanation": "A single premium policy is fully paid with one lump-sum payment at the start."
+  },
+  {
+    "id": 2,
+    "question": "A fixed amount added to the premium of a given policy regardless of policy size is known as",
+    "options": {
+      "a": "policy fee",
+      "b": "policy reserve",
+      "c": "policy values",
+      "d": "extra premium"
+    },
+    "answer": "a",
+    "explanation": "A policy fee is a flat charge added to cover expenses that do not change with the policy's size."
+  },
+  {
+    "id": 3,
+    "question": "To calculate the required premiums for a given policy, the agent must know the applicant's",
+    "options": {
+      "a": "age",
+      "b": "choice of plan",
+      "c": "face amount desired",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Premium depends on age, the plan chosen and the face amount, so the agent needs all three."
+  },
+  {
+    "id": 4,
+    "question": "To calculate premiums for the other modes of premium payment, the annual premium is",
+    "options": {
+      "a": "divided by the desired number of premium payments",
+      "b": "divided by a conversion factor for the mode of payment desired",
+      "c": "multiplied by a conversion factor for the mode of payment desired",
+      "d": "multiplied by a constant conversion factor"
+    },
+    "answer": "c",
+    "explanation": "Semi-annual, quarterly and monthly premiums are the annual premium multiplied by a mode-specific conversion factor. They cost slightly more than simple division because the insurer collects later and handles more payments."
+  },
+  {
+    "id": 5,
+    "question": "Benefits payable under health insurance policies cover",
+    "options": {
+      "a": "accidental death and dismemberment benefits",
+      "b": "expense reimbursement benefits",
+      "c": "disability income benefits",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Health insurance can pay AD&D, reimburse medical expenses and replace income during disability."
+  },
+  {
+    "id": 6,
+    "question": "With employer-employee groups, an employee does not fill out a personal application for insurance. Instead he merely fills out",
+    "options": {
+      "a": "an enrollment card",
+      "b": "a registration card",
+      "c": "a certificate of insurance coverage",
+      "d": "a salary deduction form"
+    },
+    "answer": "a",
+    "explanation": "In group insurance the employer is the policyholder, so each member only completes an enrollment card."
+  },
+  {
+    "id": 7,
+    "question": "If an employee leaves the company in which he is a member of its group insurance policy, his group coverage can be changed to an individual policy using the",
+    "options": {
+      "a": "policy exchange facility",
+      "b": "conversion privilege",
+      "c": "change of plan provision",
+      "d": "policy change form"
+    },
+    "answer": "b",
+    "explanation": "The conversion privilege lets a departing member convert group coverage to an individual policy, usually without evidence of insurability."
+  },
+  {
+    "id": 8,
+    "question": "For a contract to be legal and binding",
+    "options": {
+      "a": "parties to the contract must be members of the bar",
+      "b": "parties to the contract must be legally competent",
+      "c": "parties to the contract must be above 21",
+      "d": "parties to the contract must possess blood relationship"
+    },
+    "answer": "b",
+    "explanation": "Legal capacity (competence) of the parties is an essential element of any valid contract."
+  },
+  {
+    "id": 9,
+    "question": "A father enters into a life insurance contract on behalf of his child. In this case, the father is the",
+    "options": {
+      "a": "insured",
+      "b": "beneficiary",
+      "c": "insurer",
+      "d": "applicant-owner"
+    },
+    "answer": "d",
+    "explanation": "The child is the insured (the life covered). The father applies for and owns the policy, so he is the applicant-owner."
+  },
+  {
+    "id": 10,
+    "question": "For life insurance coverage to be valid, insurable interest must exist",
+    "options": {
+      "a": "only at the inception of the policy",
+      "b": "only at the time of the loan",
+      "c": "throughout the entire lifetime of the policy",
+      "d": "both at the time of the policy issue and at the time of the loan but not necessarily throughout the lifetime of the policy"
+    },
+    "answer": "a",
+    "explanation": "In life insurance, insurable interest must exist when the policy is issued. It need not continue afterwards. This differs from property insurance, where it must exist at the time of loss."
+  },
+  {
+    "id": 11,
+    "question": "The Insurance Code specifies that a contract does not take effect unless",
+    "options": {
+      "a": "the policy is delivered to an insured, his assignee or agent, or to a beneficiary",
+      "b": "payment of the first premium is made to the insurer or its authorized agent",
+      "c": "no change has taken place in the insurability of the life to be insured between the time the application was completed and the time the policy was delivered",
+      "d": "the insured has named in the policy no fewer than two beneficiaries"
+    },
+    "answer": "b",
+    "explanation": "Under the Insurance Code, no insurance contract is valid and binding until the premium has been paid."
+  },
+  {
+    "id": 12,
+    "question": "All of the following would be practicable to become beneficiaries except",
+    "options": {
+      "a": "children by former marriage",
+      "b": "brothers and sisters",
+      "c": "someone who owes you money",
+      "d": "someone to whom you owe money"
+    },
+    "answer": "c",
+    "explanation": "A creditor (someone you owe) has insurable interest in your life, and family members naturally qualify. A debtor has no reason to benefit from your policy, so this is the impracticable choice."
+  },
+  {
+    "id": 13,
+    "question": "Under the law pertaining to life insurance",
+    "options": {
+      "a": "only minor children can be named irrevocable beneficiaries",
+      "b": "only the wife can be named irrevocable beneficiary",
+      "c": "only the wife and the children can be named irrevocable beneficiaries",
+      "d": "any person with insurable interest can be named irrevocable beneficiary"
+    },
+    "answer": "d",
+    "explanation": "The law does not limit irrevocable designation to family. Any qualified beneficiary may be named irrevocably."
+  },
+  {
+    "id": 14,
+    "question": "When the proceeds of a life insurance policy are left with the company to earn interest",
+    "options": {
+      "a": "income tax is levied on the proceeds",
+      "b": "income tax is levied on the interest earnings of the proceeds",
+      "c": "estate tax is levied on the proceeds",
+      "d": "donor's tax is levied on the proceeds"
+    },
+    "answer": "b",
+    "explanation": "The death proceeds themselves are generally tax-exempt, but the interest they earn while held by the insurer is taxable income."
+  },
+  {
+    "id": 15,
+    "question": "A person has insurable interest in the life of",
+    "options": {
+      "a": "his child or grandchild",
+      "b": "any person upon whom he is wholly or in part dependent, or from whom he is receiving support or education",
+      "c": "any person in whom he has pecuniary interest",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Insurable interest arises from family ties, dependence, or a financial stake in the person's life."
+  },
+  {
+    "id": 16,
+    "question": "Anybody can be designated a beneficiary except",
+    "options": {
+      "a": "a creditor",
+      "b": "minors",
+      "c": "those expressly prohibited by law to receive donations",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Creditors and minors may be beneficiaries. Only persons the law expressly bars from receiving donations (for example, certain adulterous or illicit relationships) are excluded, so d is wrong."
+  },
+  {
+    "id": 17,
+    "question": "The common practice of most life insurers is that the life insurance goes into force",
+    "options": {
+      "a": "when the application is received by the branch office",
+      "b": "when the policy is delivered to the applicant",
+      "c": "in accordance with the legal stipulation of the Insurance Code",
+      "d": "when the agent gives a binding receipt"
+    },
+    "answer": "d",
+    "explanation": "Once the first premium is paid and a binding receipt is issued, coverage commonly starts, usually subject to the insurer's approval of insurability. (Some reviewers give b, so check your source.)"
+  },
+  {
+    "id": 18,
+    "question": "The parties involved in a life insurance contract are the",
+    "options": {
+      "a": "insurance company and agent",
+      "b": "insurance company and insured",
+      "c": "agent and insured",
+      "d": "insured and beneficiary"
+    },
+    "answer": "b",
+    "explanation": "The contract is made between the insurer and the insured/owner. Agents and beneficiaries are not parties to the contract."
+  },
+  {
+    "id": 19,
+    "question": "According to insurance law, a common-law spouse cannot be designated a beneficiary",
+    "options": {
+      "a": "since there is no benefit of marriage in the relationship",
+      "b": "if his/her legal partner is still living and the previous marriage has not been legally dissolved",
+      "c": "since the common-law relationship is an immoral relationship",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "The bar applies when the insured is still legally married to someone else. This is the adulterous-relationship prohibition on donations."
+  },
+  {
+    "id": 20,
+    "question": "Which one of the following provisions in a permanent life insurance policy may lapse for non-payment of premium?",
+    "options": {
+      "a": "Guaranteed Insurability",
+      "b": "Automatic Premium Loan",
+      "c": "Settlement Options",
+      "d": "Reinstatement Provision"
+    },
+    "answer": "b",
+    "explanation": "An automatic premium loan only works while the policy has enough loan value. Once that is exhausted, unpaid premiums lead to lapse."
+  },
+  {
+    "id": 21,
+    "question": "The convertible feature of a term insurance policy provides that the policy may be",
+    "options": {
+      "a": "changed to a permanent insurance policy without evidence of insurability",
+      "b": "changed to another life",
+      "c": "cashed for a guaranteed sum",
+      "d": "changed to permanent insurance with evidence of insurability"
+    },
+    "answer": "a",
+    "explanation": "Convertibility lets the owner switch to permanent insurance without a new medical examination."
+  },
+  {
+    "id": 22,
+    "question": "Within two years of buying a life insurance policy, you are accidentally killed when your car hits a tree. In these circumstances the insurance company will",
+    "options": {
+      "a": "refund premiums because it is suicide",
+      "b": "pay double the face amount",
+      "c": "pay the face amount",
+      "d": "pay nothing"
+    },
+    "answer": "c",
+    "explanation": "The suicide clause applies only to suicide. Accidental death pays the face amount. Double indemnity would need an accidental death rider."
+  },
+  {
+    "id": 23,
+    "question": "A policyholder may obtain money from the insurance company and still remain insured by",
+    "options": {
+      "a": "surrendering the policy for its cash value",
+      "b": "discontinuing payment of premium for some period",
+      "c": "taking a policy loan",
+      "d": "taking the extended insurance option"
+    },
+    "answer": "c",
+    "explanation": "A policy loan uses the cash value as security while the policy stays in force. Surrendering ends the coverage."
+  },
+  {
+    "id": 24,
+    "question": "When you bought an insurance policy on your wife's life you were 27 and she was 26, but you stated that you were 26 and she was 27. Five years later your wife died. The insurance company will pay",
+    "options": {
+      "a": "the face amount",
+      "b": "the face amount adjusted for misstatement of age",
+      "c": "the sum of the premium paid",
+      "d": "slightly less than the face amount"
+    },
+    "answer": "b",
+    "explanation": "For a misstatement of age, the benefit is adjusted to what the premium paid would have bought at the correct age. Here the wife's age was overstated, so the adjustment would actually be upward."
+  },
+  {
+    "id": 25,
+    "question": "When explaining dividends, the following information must be supplied",
+    "options": {
+      "a": "that they are not guaranteed",
+      "b": "the dividends paid up in the previous years",
+      "c": "the anticipated dividends",
+      "d": "the relation to the cost of the policy"
+    },
+    "answer": "a",
+    "explanation": "Dividends depend on company performance, so the agent must make clear they are not guaranteed. Projecting anticipated dividends would be misleading."
+  },
+  {
+    "id": 26,
+    "question": "If the insured dies during the grace period of an unpaid life insurance policy, the amount payable to the beneficiary is usually the",
+    "options": {
+      "a": "total premiums paid plus interest",
+      "b": "cash surrender value of the policy minus the unpaid premiums",
+      "c": "face amount of the policy minus the unpaid premiums",
+      "d": "full face amount"
+    },
+    "answer": "c",
+    "explanation": "The policy remains in force during the grace period, so the face amount is paid, less the overdue premium."
+  },
+  {
+    "id": 27,
+    "question": "The typical grace period provision in a life insurance policy obliges the life insurance company to",
+    "options": {
+      "a": "establish a policy loan to cover any premium which the policyowner fails to pay by due date",
+      "b": "keep the policy in force for the duration of any major disability suffered by the policyowner",
+      "c": "allow the policyowner a three-month extension beyond the due date to make the late premium payment without penalty",
+      "d": "none of the above"
+    },
+    "answer": "d",
+    "explanation": "A grace period is usually 30 or 31 days, not three months. It does not create a loan or cover disability, and the overdue premium is still owed."
+  },
+  {
+    "id": 28,
+    "question": "An automatic premium loan differs from the other policy loans in that an automatic premium loan",
+    "options": {
+      "a": "need not be repaid by the policyowner",
+      "b": "must be repaid during the policy year in which it is granted",
+      "c": "goes into effect requiring no separate action from the policyowner",
+      "d": "involves higher interest payments because of the greater cost of administration"
+    },
+    "answer": "c",
+    "explanation": "The loan is made automatically to pay an unpaid premium, so the owner does not have to apply for it."
+  },
+  {
+    "id": 29,
+    "question": "When a policy is assigned absolutely",
+    "options": {
+      "a": "the assignee acquires all the rights and interests of the original policyholder",
+      "b": "the original policyholder still can exercise some of the rights",
+      "c": "the original beneficiary is not changed",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "An absolute assignment transfers complete ownership. A collateral assignment transfers only limited rights as security."
+  },
+  {
+    "id": 30,
+    "question": "If a policy did not contain the name of a beneficiary the beneficiary will be",
+    "options": {
+      "a": "the wife",
+      "b": "the children",
+      "c": "the insured's brothers and sisters",
+      "d": "the insured's estate"
+    },
+    "answer": "d",
+    "explanation": "With no named beneficiary, proceeds are paid to the insured's estate."
+  },
+  {
+    "id": 31,
+    "question": "If a policyowner does not pay a premium on the due date, the policy will immediately",
+    "options": {
+      "a": "lapse",
+      "b": "be converted to a paid-up policy for a lesser amount",
+      "c": "go into automatic premium loan",
+      "d": "continue in full force for a period of grace"
+    },
+    "answer": "d",
+    "explanation": "The grace period keeps the policy fully in force after the due date, so it does not lapse right away."
+  },
+  {
+    "id": 32,
+    "question": "If a policyowner whose wife is the irrevocable beneficiary wishes to cash in his policy, he must",
+    "options": {
+      "a": "tell his wife what he is going to do",
+      "b": "first take a loan on the policy",
+      "c": "have the check issued in the name of his wife",
+      "d": "have the wife's consent"
+    },
+    "answer": "d",
+    "explanation": "An irrevocable beneficiary holds a vested right, so major policy changes such as surrender need her consent."
+  },
+  {
+    "id": 33,
+    "question": "Choose the incorrect statement. The entire contract between the policyowner and the insurance company includes",
+    "options": {
+      "a": "the application and the policy",
+      "b": "any verbal statement made by the agent to the applicant",
+      "c": "any document attached to the policy when issued",
+      "d": "any subsequent written amendments to the contract"
+    },
+    "answer": "b",
+    "explanation": "The entire contract consists of written documents only. Verbal statements by the agent are not part of it."
+  },
+  {
+    "id": 34,
+    "question": "If a loan is taken on a participating policy, dividends for that policy while there is a loan against the policy will be",
+    "options": {
+      "a": "suspended",
+      "b": "paid in reduced rate",
+      "c": "unaffected",
+      "d": "increased"
+    },
+    "answer": "c",
+    "explanation": "A policy loan does not change dividend entitlement. Dividends are still paid as usual."
+  },
+  {
+    "id": 35,
+    "question": "Interest is charged on policy loans",
+    "options": {
+      "a": "for registered policies only",
+      "b": "if the loan is outstanding for more than a year; a loan repaid within a year is interest free",
+      "c": "to replace investment income the insurer cannot earn since a loan has been granted",
+      "d": "for participating policies only"
+    },
+    "answer": "c",
+    "explanation": "The insurer is lending out money that would otherwise be invested, so interest compensates for the lost investment income."
+  },
+  {
+    "id": 36,
+    "question": "An insurance plan which offers both protection and savings is called",
+    "options": {
+      "a": "Temporary Plan",
+      "b": "Permanent Plan",
+      "c": "Participating Plan",
+      "d": "Non-participating Plan"
+    },
+    "answer": "b",
+    "explanation": "Permanent plans (whole life, endowment) combine death protection with cash value savings."
+  },
+  {
+    "id": 37,
+    "question": "A man with moderate means can have maximum protection possible through",
+    "options": {
+      "a": "20-Year Endowment",
+      "b": "Limited Pay Life",
+      "c": "Term insurance",
+      "d": "Whole Life Insurance"
+    },
+    "answer": "c",
+    "explanation": "Term has the lowest premium per peso of coverage, so it gives the most protection for the budget."
+  },
+  {
+    "id": 38,
+    "question": "Mr. Juan Valdez wants a policy which will entitle him to receive dividends yearly. What will you recommend to Mr. Valdez?",
+    "options": {
+      "a": "Participating Plans",
+      "b": "Non-participating Plans",
+      "c": "Term insurance",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "Only participating policies share in the insurer's surplus through dividends."
+  },
+  {
+    "id": 39,
+    "question": "Which of the following can give the longest protection?",
+    "options": {
+      "a": "20-Year Endowment",
+      "b": "Endowment at 65",
+      "c": "Ordinary Life",
+      "d": "20-Year Term"
+    },
+    "answer": "c",
+    "explanation": "Ordinary (whole) life protects for the entire lifetime, up to age 100. The other plans end at 20 years or age 65."
+  },
+  {
+    "id": 40,
+    "question": "An individual at age 35 purchases a policy under which he will in 20 years receive the face amount of the policy himself, if he is still alive at that date. This policy is obviously a",
+    "options": {
+      "a": "20-Year Endowment",
+      "b": "20-Pay Life",
+      "c": "20-Year Term",
+      "d": "None of the above"
+    },
+    "answer": "a",
+    "explanation": "An endowment pays the face amount to the insured if he survives to the end of the endowment period."
+  },
+  {
+    "id": 41,
+    "question": "In a 20-Pay Life policy",
+    "options": {
+      "a": "protection is until age 100, payment of premium is for 20 years",
+      "b": "protection is until age 100, payment of premiums until age 100",
+      "c": "protection is for 20 years, payment of premium is for 20 years",
+      "d": "protection is for 20 years, payment of premiums until age 100"
+    },
+    "answer": "a",
+    "explanation": "A limited-pay life policy is paid up after 20 years but protects for life."
+  },
+  {
+    "id": 42,
+    "question": "A participating plan entitles the policyowner to receive a return of excess premiums. Such is termed as",
+    "options": {
+      "a": "endowments",
+      "b": "dividends",
+      "c": "cash values",
+      "d": "cash surrender value"
+    },
+    "answer": "b",
+    "explanation": "Dividends are a return of excess premium from favorable mortality, investment and expense experience."
+  },
+  {
+    "id": 43,
+    "question": "Mrs. Rose Cortez owns a policy which does not provide for the build-up of cash values and whose premiums remain level. Mrs. Cortez owns",
+    "options": {
+      "a": "Ordinary Life",
+      "b": "Limited Pay Life",
+      "c": "Decreasing Term",
+      "d": "Level Term"
+    },
+    "answer": "d",
+    "explanation": "Term has no cash value. Decreasing term has level premiums too but a shrinking face amount, and the question implies a level face amount, so the answer is level term."
+  },
+  {
+    "id": 44,
+    "question": "Two attractive features of a Term insurance are",
+    "options": {
+      "a": "convertibility and cash values",
+      "b": "cash values and dividends",
+      "c": "protection and cash values",
+      "d": "convertibility and renewability"
+    },
+    "answer": "d",
+    "explanation": "Term has no cash values. Its key features are the right to convert to permanent coverage and to renew without evidence of insurability."
+  },
+  {
+    "id": 45,
+    "question": "A term insurance which allows the policyowners to convert it to a permanent insurance within a specified period without evidence of insurability contains the feature of",
+    "options": {
+      "a": "convertibility",
+      "b": "renewability",
+      "c": "dividend option",
+      "d": "both a & b"
+    },
+    "answer": "a",
+    "explanation": "Switching from term to permanent is the convertibility feature. Renewability means extending the term."
+  },
+  {
+    "id": 46,
+    "question": "A term policy only offers",
+    "options": {
+      "a": "cash values",
+      "b": "protection",
+      "c": "savings",
+      "d": "dividends"
+    },
+    "answer": "b",
+    "explanation": "Term insurance is pure protection for a limited period."
+  },
+  {
+    "id": 47,
+    "question": "The main difference between a term plan and a permanent plan is",
+    "options": {
+      "a": "permanent plans provide both protection and savings while term plans offer protection only",
+      "b": "permanent plans provide savings and dividends while term plans provide savings only",
+      "c": "permanent plans can be converted and renewed while term plans cannot",
+      "d": "all of the above"
+    },
+    "answer": "a",
+    "explanation": "Permanent plans add a savings (cash value) element to protection. Term offers protection only."
+  },
+  {
+    "id": 48,
+    "question": "The savings element of permanent plans allows for the build-up of",
+    "options": {
+      "a": "dividends",
+      "b": "cash values",
+      "c": "maturity benefits",
+      "d": "death benefits"
+    },
+    "answer": "b",
+    "explanation": "The savings element accumulates as cash values, which can be borrowed against or surrendered."
+  },
+  {
+    "id": 49,
+    "question": "A term rider is",
+    "options": {
+      "a": "a term policy with a waiver of premium",
+      "b": "another name for a convertible term policy",
+      "c": "a renewable term policy",
+      "d": "a term insurance added to a permanent plan"
+    },
+    "answer": "d",
+    "explanation": "A term rider attaches extra, low-cost term coverage to a basic permanent policy."
+  },
+  {
+    "id": 50,
+    "question": "An optional rider which can be attached to a policy stopping further premium payments in the event of disability is called",
+    "options": {
+      "a": "policyholder protection clause",
+      "b": "accidental death and dismemberment",
+      "c": "waiver of premium",
+      "d": "total disability monthly income"
+    },
+    "answer": "c",
+    "explanation": "The waiver of premium rider excuses premiums while the insured is disabled."
+  },
+  {
+    "id": 51,
+    "question": "For the waiver of premium to be effective",
+    "options": {
+      "a": "disability must be total",
+      "b": "disability must be permanent",
+      "c": "both a & b",
+      "d": "either a or b"
+    },
+    "answer": "c",
+    "explanation": "The disability must be both total and permanent (or last for a required period) to trigger the waiver."
+  },
+  {
+    "id": 52,
+    "question": "If a policy with the accidental death rider becomes paid up",
+    "options": {
+      "a": "the accidental death rider ceases",
+      "b": "the face amount of the policy is reduced",
+      "c": "premiums on the basic policy stop but the rider premium continues",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Riders generally end when the basic policy is converted to paid-up status, since no further premiums are collected for them."
+  },
+  {
+    "id": 53,
+    "question": "Disability benefits are not paid",
+    "options": {
+      "a": "for self-inflicted injuries",
+      "b": "if there is a loan against the policy",
+      "c": "if all the policy dividends have been withdrawn",
+      "d": "if disability resulted from sickness only"
+    },
+    "answer": "a",
+    "explanation": "Self-inflicted injury is a standard exclusion. Loans, dividend withdrawals and sickness do not bar the benefit."
+  },
+  {
+    "id": 54,
+    "question": "Mr. Pedro Cruz became paralyzed as a result of jumping out of the window in an attempt to commit suicide. Under the usual provisions of a disability income policy, he would be entitled to",
+    "options": {
+      "a": "receive the total disability income benefit and the waiver of premiums",
+      "b": "receive partial disability benefits",
+      "c": "be granted the waiver of premiums",
+      "d": "receive neither disability income nor waiver of premiums"
+    },
+    "answer": "d",
+    "explanation": "Self-inflicted injuries are excluded, so neither the income benefit nor the waiver applies."
+  },
+  {
+    "id": 55,
+    "question": "A person wanting a greater coverage for the least amount of premium has an option of attaching what rider in his permanent life policy?",
+    "options": {
+      "a": "a waiver of premium",
+      "b": "a term insurance rider",
+      "c": "guaranteed insurability rider",
+      "d": "accidental death rider"
+    },
+    "answer": "b",
+    "explanation": "Term is the cheapest way to add coverage, so a term rider gives the most extra coverage per peso."
+  },
+  {
+    "id": 56,
+    "question": "One supplementary benefit offered is a payor's benefit which is intended to",
+    "options": {
+      "a": "provide for the return of premiums to an adult payor in the event that a minor insured dies",
+      "b": "provide a waiver of premium benefit in the event of death or disability of the person paying the premiums",
+      "c": "allow the insurance company to pay the policy's proceeds to the person who seems equitably entitled to the proceeds",
+      "d": "assure that the adult payor will retain a vested interest in the policy when the insured reaches the age of majority"
+    },
+    "answer": "b",
+    "explanation": "On a juvenile policy, if the paying adult dies or becomes disabled, the payor's benefit waives further premiums so the child's coverage continues."
+  },
+  {
+    "id": 57,
+    "question": "If an insured is disabled and his life insurance policy is being continued in force through the waiver of premium, the dividends of the policy would",
+    "options": {
+      "a": "cease",
+      "b": "continue at reduced rate",
+      "c": "continue as if the owner is paying the premium",
+      "d": "continue but they would be applied toward premium being waived"
+    },
+    "answer": "c",
+    "explanation": "The policy is treated as premium-paying, so dividends continue as normal."
+  },
+  {
+    "id": 58,
+    "question": "A policy with a minor as the proposed insured is called",
+    "options": {
+      "a": "rated policy",
+      "b": "juvenile policy",
+      "c": "regular policy",
+      "d": "substandard policy"
+    },
+    "answer": "b",
+    "explanation": "A juvenile policy insures a minor, with an adult as applicant-owner."
+  },
+  {
+    "id": 59,
+    "question": "Life insurance policies for which higher than standard premium rates are payable are said to be",
+    "options": {
+      "a": "rated policies",
+      "b": "contingent policies",
+      "c": "non-participating policies",
+      "d": "conditional policies"
+    },
+    "answer": "a",
+    "explanation": "Substandard risks are charged extra premium, and the resulting policy is called a rated policy."
+  },
+  {
+    "id": 60,
+    "question": "Since the purchase of life insurance is a voluntary choice, the individual must meet",
+    "options": {
+      "a": "comprehensive inspection report",
+      "b": "certain standards of health and occupation",
+      "c": "minimum income requirement",
+      "d": "all of the above"
+    },
+    "answer": "b",
+    "explanation": "Insurability is judged mainly on health and occupation. Income is not a general requirement."
+  },
+  {
+    "id": 61,
+    "question": "Which of the following factors would have the least effect on the premium charged for life insurance?",
+    "options": {
+      "a": "age",
+      "b": "occupation",
+      "c": "income",
+      "d": "all of the above"
+    },
+    "answer": "c",
+    "explanation": "Age and occupation directly affect mortality risk. Income affects how much coverage can be justified, but not the premium rate."
+  },
+  {
+    "id": 62,
+    "question": "Anti-selection occurs",
+    "options": {
+      "a": "when an agent thinks only of his own interest and not of his policyowners",
+      "b": "when you purchase bad stocks with expectation that they will improve",
+      "c": "when the insurance company accepts more than a share of poor risks",
+      "d": "when persons in poor health wish to buy insurance"
+    },
+    "answer": "d",
+    "explanation": "Anti-selection (adverse selection) is the tendency of people in poor health or at high risk to seek insurance more eagerly."
+  },
+  {
+    "id": 63,
+    "question": "In insurance, risk means",
+    "options": {
+      "a": "chances of you being paid by the company",
+      "b": "hazard on people's lives",
+      "c": "chances of the beneficiary being paid",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "In this reviewer's life insurance context, risk refers to the hazard or danger to people's lives that the insurer takes on."
+  },
+  {
+    "id": 64,
+    "question": "In an application, the information that must be disclosed include",
+    "options": {
+      "a": "only his date and place of birth",
+      "b": "only his family history",
+      "c": "every fact in his knowledge that is material to the insurance",
+      "d": "only information he wants the agent to know"
+    },
+    "answer": "c",
+    "explanation": "The duty of full disclosure requires the applicant to reveal all material facts."
+  },
+  {
+    "id": 65,
+    "question": "Insurance Companies have various sources of information on the insured. These are",
+    "options": {
+      "a": "application form",
+      "b": "medical information bureau",
+      "c": "inspection report",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Insurers draw on the application, the medical information bureau, inspection reports and other sources."
+  },
+  {
+    "id": 66,
+    "question": "In insurance risks are classified as",
+    "options": {
+      "a": "unacceptable and acceptable",
+      "b": "regular and irregular",
+      "c": "standard, substandard and declined",
+      "d": "complete and incomplete"
+    },
+    "answer": "c",
+    "explanation": "Underwriting sorts risks into standard, substandard (rated) and declined."
+  },
+  {
+    "id": 67,
+    "question": "A risk is considered substandard based on any or all of the following criteria",
+    "options": {
+      "a": "death, occupation and moral character",
+      "b": "occupation, moral character and family health history",
+      "c": "income, educational attainment and occupation",
+      "d": "death, income and educational background"
+    },
+    "answer": "b",
+    "explanation": "Occupation, moral character (moral hazard) and health or family history are classic substandard factors."
+  },
+  {
+    "id": 68,
+    "question": "A hazardous occupation could be defined as",
+    "options": {
+      "a": "an occupation the duties of which expose the insured to a degree of danger of sustaining injury",
+      "b": "an occupation in unhealthy working conditions exposing the insured to elements which can cause sickness",
+      "c": "an occupation which exposes the insured to social hazards",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Occupational hazard covers physical danger, unhealthy conditions and social hazards."
+  },
+  {
+    "id": 69,
+    "question": "Statements in the application forms are",
+    "options": {
+      "a": "guarantees",
+      "b": "representations",
+      "c": "warranties",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Application statements are representations: true to the best of the applicant's knowledge, not absolute guarantees."
+  },
+  {
+    "id": 70,
+    "question": "Mr. Roel Reyes has been confined in a hospital 3 years prior to his application for insurance. He therefore needs to give the following information",
+    "options": {
+      "a": "name of attending doctor, diagnosis, date of confinement",
+      "b": "the bill and medicines",
+      "c": "name of doctor only",
+      "d": "date of confinement only"
+    },
+    "answer": "a",
+    "explanation": "The underwriter needs the doctor, the diagnosis and the date to evaluate the past illness."
+  },
+  {
+    "id": 71,
+    "question": "Insurance companies have a source of confidential medical information on applicants for life insurance. This is the",
+    "options": {
+      "a": "agents confidential report bureau",
+      "b": "inspection reports bureau",
+      "c": "financial standing bureau",
+      "d": "medical impairment bureau"
+    },
+    "answer": "d",
+    "explanation": "The Medical Impairment (Information) Bureau shares coded medical information among member insurers."
+  },
+  {
+    "id": 72,
+    "question": "An agent is filling up the Agent's Confidential Report. What information must he put in his report?",
+    "options": {
+      "a": "information about insured's standing in the community",
+      "b": "information about insured's finances",
+      "c": "all information he knows which are material to the application for insurance",
+      "d": "a & b only"
+    },
+    "answer": "c",
+    "explanation": "The agent must report every material fact he knows, not just selected items."
+  },
+  {
+    "id": 73,
+    "question": "An annuity plan",
+    "options": {
+      "a": "offers life insurance protection",
+      "b": "offers the waiver of premium benefit",
+      "c": "is the same as an endowment plan",
+      "d": "is a purchase of income"
+    },
+    "answer": "d",
+    "explanation": "An annuity converts money into a stream of income. Unlike life insurance, it protects against outliving your money."
+  },
+  {
+    "id": 74,
+    "question": "The person who purchases the annuity plan is called the",
+    "options": {
+      "a": "assignor",
+      "b": "owner",
+      "c": "insured",
+      "d": "annuitant"
+    },
+    "answer": "d",
+    "explanation": "The annuitant is the person who buys the plan and receives its income payments. (The purchaser can also be called the owner, but reviewers usually give annuitant.)"
+  },
+  {
+    "id": 75,
+    "question": "A life insurance company earns income from two main sources",
+    "options": {
+      "a": "premium income and investment income",
+      "b": "mortgage income and premium income",
+      "c": "dividend income and interest income",
+      "d": "mortgage income and dividend income"
+    },
+    "answer": "a",
+    "explanation": "Insurers earn from the premiums they collect and from investing those funds."
+  },
+  {
+    "id": 76,
+    "question": "Policy reserves are future obligations on the part of",
+    "options": {
+      "a": "the Insurance Commission",
+      "b": "the insurance company",
+      "c": "the beneficiary",
+      "d": "the policyowner"
+    },
+    "answer": "b",
+    "explanation": "Reserves are the money the insurer sets aside to meet its future policy obligations."
+  },
+  {
+    "id": 77,
+    "question": "Insurance companies which are owned by the policyowners are examples of",
+    "options": {
+      "a": "stock companies",
+      "b": "mutual companies",
+      "c": "family corporations",
+      "d": "open-end companies"
+    },
+    "answer": "b",
+    "explanation": "In a mutual company, the policyowners are the owners."
+  },
+  {
+    "id": 78,
+    "question": "Stock companies are owned by",
+    "options": {
+      "a": "policyowners",
+      "b": "stockholders",
+      "c": "creditors",
+      "d": "government"
+    },
+    "answer": "b",
+    "explanation": "Stock companies are owned by shareholders who invest capital."
+  },
+  {
+    "id": 79,
+    "question": "In the case of life insurance a sale is considered completed if the application is signed and payment of the first premium is made by the applicant. For the sale to be considered completed",
+    "options": {
+      "a": "a medical examination has to be made first",
+      "b": "payment of the first premium has to be made by the applicant in full or in part, as specified. One of the acceptable methods of settlement is by cash or check in part, with a note for the balance",
+      "c": "payment of the first premium has to be made in full by a note first",
+      "d": "the first premium has to be paid in full and in cash"
+    },
+    "answer": "b",
+    "explanation": "The first premium may be paid in full or in part as specified, including part cash or check with a note for the balance."
+  },
+  {
+    "id": 80,
+    "question": "Why is it important that the application is the basis of the policy?",
+    "options": {
+      "a": "because the completed application is the basis of the policy contract and the company may accept or reject an application based on the information given in the application",
+      "b": "for the agent to have available data of his prospect in connection with future sales",
+      "c": "to avoid the necessity of the insurer putting all relevant details in the contract",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "The insurer decides to accept or reject based on the application, and it becomes part of the contract."
+  },
+  {
+    "id": 81,
+    "question": "Which one of the following statements is correct?",
+    "options": {
+      "a": "advertising by life insurance agents is prohibited",
+      "b": "all information about a client or a prospective client has to be treated as confidential",
+      "c": "all agents should always recommend the amount and type of policy to a prospective client which would be profitable for the company",
+      "d": "when an agent advertises his services in the press, he is not allowed to state the name of his company"
+    },
+    "answer": "b",
+    "explanation": "Client confidentiality is a core ethical duty for agents."
+  },
+  {
+    "id": 82,
+    "question": "All of the following statements regarding a life insurance application are correct except",
+    "options": {
+      "a": "it must be signed by the applicant",
+      "b": "usually it will be made a part of the policy contract",
+      "c": "misstatements of material facts could void the policy during the contestable period",
+      "d": "statements made on the applications are warranties"
+    },
+    "answer": "d",
+    "explanation": "Application statements are representations, not warranties, so d is the incorrect statement."
+  },
+  {
+    "id": 83,
+    "question": "Prior to granting a license, the IC requires proof of",
+    "options": {
+      "a": "a clean record of employment",
+      "b": "a reasonable educational background",
+      "c": "a prospective agent's character and reputation",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "The Commissioner looks at employment record, education and character and reputation."
+  },
+  {
+    "id": 84,
+    "question": "The IC has the power to adjudicate insurance claims against insurance companies for any single claim not exceeding",
+    "options": {
+      "a": "P 1,000,000.00",
+      "b": "P 250,000.00",
+      "c": "P 100,000.00",
+      "d": "P 500,000.00"
+    },
+    "answer": "c",
+    "explanation": "P100,000 was the original limit under PD 63. The IC's current rules put the limit at P5,000,000, so check which version your exam follows."
+  },
+  {
+    "id": 85,
+    "question": "Which one of the following statements is correct?",
+    "options": {
+      "a": "an insurance agent's license will be renewed when the Commissioner is satisfied that the information in the application is accurate and all requirements are met",
+      "b": "an insurance agent's license is valid only for one month",
+      "c": "an insurance agent's license is valid during the lifetime of the agent",
+      "d": "an insurance agent's license will be renewed when the corresponding application and fee are received by the Insurance Commission"
+    },
+    "answer": "a",
+    "explanation": "Renewal is not automatic. The Commissioner must be satisfied that requirements are met."
+  },
+  {
+    "id": 86,
+    "question": "The insurance industry is under government regulations because",
+    "options": {
+      "a": "it is required to account for money spent in company operations",
+      "b": "it pays high taxes",
+      "c": "it affects public interest",
+      "d": "it is a charitable institution"
+    },
+    "answer": "c",
+    "explanation": "Insurance holds public funds and promises, so it is regulated in the public interest."
+  },
+  {
+    "id": 87,
+    "question": "Which one of the following statements is correct?",
+    "options": {
+      "a": "an agent is allowed to share commissions when selling a whole life policy but not when selling a term policy",
+      "b": "an agent is allowed to share commissions with another licensed agent or agents but with no one else",
+      "c": "sharing the commission with any person is called twisting",
+      "d": "an agent is not allowed to share commissions with any person"
+    },
+    "answer": "b",
+    "explanation": "Commission may be shared only with other licensed agents. Sharing with unlicensed persons is prohibited."
+  },
+  {
+    "id": 88,
+    "question": "Which one of the following statements is correct?",
+    "options": {
+      "a": "rebating of premiums can only be authorized by the head office of the insurer",
+      "b": "a life insurance agent is not allowed to identify on his letterhead the name of the insurer he represents",
+      "c": "life insurance agents are allowed to act for two insurers at the same time under the same license",
+      "d": "rebating of premiums by an insurance agent is prohibited"
+    },
+    "answer": "d",
+    "explanation": "Rebating is prohibited, and no one, including the head office, can authorize it."
+  },
+  {
+    "id": 89,
+    "question": "Persuading a policyowner, directly or indirectly, to surrender or lapse a policy in one company and replacing it with a policy in another company is",
+    "options": {
+      "a": "rebating",
+      "b": "twisting",
+      "c": "knocking",
+      "d": "discounting"
+    },
+    "answer": "b",
+    "explanation": "That is the definition of twisting."
+  },
+  {
+    "id": 90,
+    "question": "Rebating is",
+    "options": {
+      "a": "dating the policy a month in advance",
+      "b": "giving false information",
+      "c": "twisting",
+      "d": "premium discrimination against policyholders"
+    },
+    "answer": "d",
+    "explanation": "Rebating means giving some customers a discount or refund not offered to others, which is premium discrimination."
+  },
+  {
+    "id": 91,
+    "question": "An insurance agent's license can be revoked for",
+    "options": {
+      "a": "fraudulent practices",
+      "b": "violation of any provision of the Insurance Code",
+      "c": "misrepresentation in the application for license",
+      "d": "any or all of the above"
+    },
+    "answer": "d",
+    "explanation": "Each of these is a ground for revocation."
+  },
+  {
+    "id": 92,
+    "question": "One example covered under the ethical practices and procedures is",
+    "options": {
+      "a": "keep all policyholders information confidential",
+      "b": "always recommend a will",
+      "c": "never drink in front of client",
+      "d": "always pick up the first premium with the application for insurance"
+    },
+    "answer": "a",
+    "explanation": "Confidentiality is an established ethical duty. The others are habits or tips, not ethical rules."
+  },
+  {
+    "id": 93,
+    "question": "The term knocking means",
+    "options": {
+      "a": "promising to pay to two annuitants a fixed annual income as long as both survive",
+      "b": "making derogatory remarks about competing underwriters or companies",
+      "c": "the number of years that a person at a given age will live on average as shown by the mortality table",
+      "d": "none of the above"
+    },
+    "answer": "b",
+    "explanation": "Knocking is disparaging competitors or their products."
+  },
+  {
+    "id": 94,
+    "question": "The following are unethical practices in the solicitation and procurement of insurance except",
+    "options": {
+      "a": "misleading estimates of the dividends or shares of surplus to be received thereon",
+      "b": "inducing a policyholder to lapse, forfeit or surrender a policy he holds for another company",
+      "c": "misrepresenting the terms of any policy issued by any insurance company or the benefits or advantages promised thereon",
+      "d": "obtaining or attempting to obtain a license by fraud or misrepresentation"
+    },
+    "answer": "d",
+    "explanation": "Options a to c are solicitation abuses. License fraud is a separate offense under licensing rules, not a solicitation practice."
+  },
+  {
+    "id": 95,
+    "question": "Twisting is",
+    "options": {
+      "a": "paying the premium on one policy by surrendering the dividends of another policy",
+      "b": "the replacement of a policy in one company with another policy in another company",
+      "c": "an attempt made by an insurance company to secure the services of an agent from another company",
+      "d": "an offense which does not apply to variable concepts"
+    },
+    "answer": "b",
+    "explanation": "Twisting means inducing replacement of a policy with one from another insurer through misrepresentation."
+  },
+  {
+    "id": 96,
+    "question": "The misstatement of facts by either of the parties of insurance to the other whether in writing or orally preliminary and in reference to making the insurance contract is",
+    "options": {
+      "a": "knocking",
+      "b": "overloading",
+      "c": "misrepresentation",
+      "d": "twisting"
+    },
+    "answer": "c",
+    "explanation": "A misstatement of fact made to induce the contract is misrepresentation."
+  },
+  {
+    "id": 97,
+    "question": "Selling a person more insurance than what is warranted by his resources is called",
+    "options": {
+      "a": "overloading",
+      "b": "twisting",
+      "c": "rebating",
+      "d": "knocking"
+    },
+    "answer": "a",
+    "explanation": "Overloading means selling coverage the client cannot reasonably afford."
+  },
+  {
+    "id": 98,
+    "question": "An agent is prohibited from doing all of the following except:",
+    "options": {
+      "a": "alter an application without the applicant's prior written approval",
+      "b": "convince a prospective client to cancel his policy in one insurance company in order to buy a policy in the insurance company represented by the agent",
+      "c": "refund some of his commission to his client",
+      "d": "make complete comparisons of policies he sells and those offered by competing insurance companies"
+    },
+    "answer": "d",
+    "explanation": "Fair, complete comparisons are allowed. Altering applications, twisting and refunding commission (rebating) are prohibited."
+  },
+  {
+    "id": 99,
+    "question": "Inducing an insured to lapse or forfeit his insurance",
+    "options": {
+      "a": "is not allowed by the conditions of the contract",
+      "b": "is always to the advantage of the policyholder",
+      "c": "is an offense in the great majority of cases",
+      "d": "is a matter left entirely to the discretion of the agent"
+    },
+    "answer": "c",
+    "explanation": "Inducing lapse or surrender is generally an offense, since it usually harms the policyholder."
+  },
+  {
+    "id": 100,
+    "question": "The Suicide clause is in effect for",
+    "options": {
+      "a": "the first 6 months",
+      "b": "the first year",
+      "c": "the first 2 years",
+      "d": "the first 18 months"
+    },
+    "answer": "c",
+    "explanation": "The suicide exclusion applies during the first two years from policy issue."
+  },
+  {
+    "id": 101,
+    "question": "The three non-forfeiture values in a permanent policy are",
+    "options": {
+      "a": "cash dividends, bonus additions and extended term insurance",
+      "b": "cash surrender value, loan value, assignment",
+      "c": "waiver of premium, reinstatement and the policy loan",
+      "d": "cash surrender value, paid-up value, extended term insurance"
+    },
+    "answer": "d",
+    "explanation": "Non-forfeiture options let the owner keep value if premiums stop: cash, reduced paid-up insurance, or extended term."
+  },
+  {
+    "id": 102,
+    "question": "In the event that a policy elects a paid-up insurance option",
+    "options": {
+      "a": "the premiums stop and the policy continues for the full face amount until age 65",
+      "b": "the premium cease and protection continues with a reduced amount of coverage",
+      "c": "the insurance continues at a reduced amount and with a reduced premium",
+      "d": "the policy will automatically terminate"
+    },
+    "answer": "b",
+    "explanation": "Cash value buys a smaller, fully paid-up policy, so no more premiums are due."
+  },
+  {
+    "id": 103,
+    "question": "What are the basic settlement options?",
+    "options": {
+      "a": "cash surrender value, automatic premium loan",
+      "b": "fixed amount, fixed period, interest, fixed period and for life",
+      "c": "double indemnity, total disability waiver of premium",
+      "d": "policy loans, assignment, beneficiary designation"
+    },
+    "answer": "b",
+    "explanation": "Settlement options are ways proceeds can be paid out: interest option, fixed period, fixed amount and life income."
+  },
+  {
+    "id": 104,
+    "question": "In case of misstatement of age",
+    "options": {
+      "a": "the policy is cancelled and a new one is issued for the correct age",
+      "b": "the insured can be changed",
+      "c": "the amount of insurance is adjusted to the amount which the premium paid at the correct age would have purchased",
+      "d": "the policy remains in force and the company cannot contest it"
+    },
+    "answer": "c",
+    "explanation": "The benefit is recalculated to what the premiums paid would have bought at the true age."
+  },
+  {
+    "id": 105,
+    "question": "Which of the following is a settlement option?",
+    "options": {
+      "a": "policy loan",
+      "b": "cash surrender value",
+      "c": "extended term insurance",
+      "d": "interest on insurance proceeds"
+    },
+    "answer": "d",
+    "explanation": "Leaving proceeds with the insurer to earn interest is the interest option. The others are living benefits or non-forfeiture options."
+  },
+  {
+    "id": 106,
+    "question": "Name the provision in a permanent life insurance policy under which if the premium are discontinued full insurance coverage will be maintained for a specified period",
+    "options": {
+      "a": "extended term insurance",
+      "b": "paid-up insurance",
+      "c": "paid-up additions",
+      "d": "life income option"
+    },
+    "answer": "a",
+    "explanation": "Extended term keeps the full face amount in force, but only for a limited time."
+  },
+  {
+    "id": 107,
+    "question": "Which of the following is not derived from the non-forfeiture values?",
+    "options": {
+      "a": "cash surrender value",
+      "b": "paid-up insurance",
+      "c": "dividends",
+      "d": "extended term insurance"
+    },
+    "answer": "c",
+    "explanation": "Dividends come from the company's surplus, not from the guaranteed non-forfeiture values."
+  },
+  {
+    "id": 108,
+    "question": "Mr. Dela Cruz stated in his application that he was 30 years of age and a policy was issued to him on that basis. When he died twenty years later it was found out that, in fact, he was 34 years of age at the time of his application. In conformity with the Insurance Code, the company",
+    "options": {
+      "a": "paid the amount of insurance payable to his beneficiary reduced in relation to his actual age at the time the contract was signed",
+      "b": "paid one half of the face value of the policy",
+      "c": "need not pay the face value of the policy, but refund all premiums paid",
+      "d": "paid the full face value of the policy without any extra charges"
+    },
+    "answer": "a",
+    "explanation": "He understated his age and so underpaid, so the benefit is reduced to what his premiums would have bought at age 34."
+  },
+  {
+    "id": 109,
+    "question": "In the event that the policyowner elects that paid-up insurance option",
+    "options": {
+      "a": "premiums stop and the policy continues for a full face amount until age 65",
+      "b": "premium cease and protection continues for a reduced amount",
+      "c": "insurance continues at a reduced amount and with reduced premium",
+      "d": "the policy will automatically terminate"
+    },
+    "answer": "b",
+    "explanation": "The paid-up option stops premiums and continues protection at a reduced amount."
+  },
+  {
+    "id": 110,
+    "question": "If a policyowner commits suicide within one year, what's the company's liability?",
+    "options": {
+      "a": "the company is not liable at all",
+      "b": "the company would be liable for the payment of the face value of the policy",
+      "c": "the company would be liable for the payment of the premiums paid by the insured only",
+      "d": "none of the above"
+    },
+    "answer": "c",
+    "explanation": "Suicide within the contestable two years limits the insurer's liability to a refund of premiums paid."
+  },
+  {
+    "id": 111,
+    "question": "Which of the non-forfeiture option gives the largest amount of protection?",
+    "options": {
+      "a": "fully paid insurance",
+      "b": "cash surrender value",
+      "c": "extended term insurance",
+      "d": "all of the above give equal protection"
+    },
+    "answer": "c",
+    "explanation": "Extended term keeps the full face amount in force, though only for a limited period. Paid-up reduces the amount and cash surrender ends protection."
+  },
+  {
+    "id": 112,
+    "question": "Any policy which has lapsed can be reinstated subject to normal conditions of proof of insurability within",
+    "options": {
+      "a": "three years",
+      "b": "six months",
+      "c": "one year",
+      "d": "two years"
+    },
+    "answer": "a",
+    "explanation": "The reinstatement provision typically allows three years from the date of lapse."
+  },
+  {
+    "id": 113,
+    "question": "Life insurance is",
+    "options": {
+      "a": "a luxury afforded by the rich",
+      "b": "only available to a specific group",
+      "c": "a cooperative risk-sharing plan",
+      "d": "a speculative risk"
+    },
+    "answer": "c",
+    "explanation": "Many people contribute premiums so that losses suffered by a few are shared by all."
+  },
+  {
+    "id": 114,
+    "question": "The official who makes the necessary assumption and calculation in respect of the principal elements in life insurance premium in order to arrive at the premium rates to be charged is the",
+    "options": {
+      "a": "life agent",
+      "b": "senior statistician",
+      "c": "Insurance Commissioner",
+      "d": "Actuary"
+    },
+    "answer": "d",
+    "explanation": "Actuaries compute premium rates and reserves using mortality, interest and expense assumptions."
+  },
+  {
+    "id": 115,
+    "question": "Since the purchase of life insurance is a voluntary choice the individual must meet",
+    "options": {
+      "a": "a comprehensive inspection report",
+      "b": "certain standards of health and occupation",
+      "c": "a satisfactory medical examination",
+      "d": "a minimum income figure"
+    },
+    "answer": "b",
+    "explanation": "Insurability depends on health and occupation standards. A medical exam is not always required."
+  },
+  {
+    "id": 116,
+    "question": "The fundamental advantage of the use of insurance as a means of meeting economic losses is that through insurance these losses are",
+    "options": {
+      "a": "spread over a large number of people",
+      "b": "deferred for a specified period of time",
+      "c": "reduced for the group as a whole through the multiplier effect",
+      "d": "met as they arise through savings accumulated on an assessment basis"
+    },
+    "answer": "a",
+    "explanation": "Risk pooling spreads individual losses over a large group."
+  },
+  {
+    "id": 117,
+    "question": "The term loading means",
+    "options": {
+      "a": "the difference between the gross and net premiums for the purpose of paying the insurance overhead expenses including commissions and taxes",
+      "b": "the amount which the company will lend to the policyholder with the policy as a security",
+      "c": "the amount payable in the event of the occurrence of a loss which renders him unfit for insurance",
+      "d": "none of the above"
+    },
+    "answer": "a",
+    "explanation": "Loading is the amount added to the net premium to cover expenses, commissions and taxes, giving the gross premium."
+  },
+  {
+    "id": 118,
+    "question": "Life insurance contributes directly to the welfare and progress of the country by",
+    "options": {
+      "a": "accumulating capital for investment in commerce and industry",
+      "b": "partially relieving the community of the care of dependents",
+      "c": "encouraging provisions for the future",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Life insurance pools capital, protects dependents and promotes saving."
+  },
+  {
+    "id": 119,
+    "question": "Life insurance can provide money when income stops because of",
+    "options": {
+      "a": "disability",
+      "b": "death",
+      "c": "retirement",
+      "d": "all of the above"
+    },
+    "answer": "d",
+    "explanation": "Depending on the plan, benefits can replace income lost to disability, death or retirement."
+  },
+  {
+    "id": 120,
+    "question": "The three elements that make up a life insurance premium are",
+    "options": {
+      "a": "mortality experience, investment earnings and operating expenses",
+      "b": "cash values, dividends and paid-up values",
+      "c": "cash values, loan values and paid-up values",
+      "d": "past dividend experience, present dividend and projected interest"
+    },
+    "answer": "a",
+    "explanation": "Premiums are based on expected mortality, expected investment earnings and operating expenses."
+  },
+  {
+    "id": 121,
+    "question": "The number of years that persons at a given age will live on the average as shown by the mortality table is called",
+    "options": {
+      "a": "law of large numbers",
+      "b": "life income option",
+      "c": "life annuity",
+      "d": "life expectancy"
+    },
+    "answer": "d",
+    "explanation": "Life expectancy is the average remaining years of life at a given age, taken from the mortality table."
+  },
+  {
+    "id": 122,
+    "question": "Part of the premium paid by a policyholder is invested by the insurance company. In premium computation, this factor is known as",
+    "options": {
+      "a": "interest",
+      "b": "investment",
+      "c": "loading",
+      "d": "mortality"
+    },
+    "answer": "a",
+    "explanation": "Investment earnings are factored into premium computation as the interest assumption."
+  }
+]

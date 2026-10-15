@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Local Quiz</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <h1>Quiz</h1>
+    <div id="progress" aria-live="polite">Loading questions...</div>
+  </header>
+
+  <main class="page">
+    <section class="quiz-card" aria-labelledby="question-title">
+      <div class="question-label" id="question-label">Question 1</div>
+      <h2 id="question-title">Loading question...</h2>
+      <form id="options-form">
+        <fieldset id="options" class="options">
+          <legend class="sr-only">Choose one answer</legend>
+        </fieldset>
+      </form>
+      <p id="message" class="message" aria-live="polite"></p>
+      <nav class="navigation" aria-label="Question navigation">
+        <button id="previous-btn" class="button secondary" type="button">← Previous</button>
+        <button id="next-btn" class="button primary" type="button">Next →</button>
+      </nav>
+    </section>
+  </main>
+</body>
+</html>
